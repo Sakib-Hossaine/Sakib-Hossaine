@@ -39,11 +39,11 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=your-github-username&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
@@ -51,8 +51,8 @@
 
 ### ✨ Projects
 Some of my featured projects:
-- 🌟 [**Project Name 1**](#): A brief description of the project.
-- 🌟 [**Project Name 2**](#): An overview of another great project.
+- 🌟 [**Project 1 - property management system**](https://github.com/Sakib-Hossaine/CSE-202-JAVA-LAB/tree/main/PropertyJavaFX/src): This project is on property, used Java for language, and used Scene Builder app for outlook
+- 🌟 [**Project 2 - Bank management system**](https://github.com/Sakib-Hossaine/CSE-212--Database-management-Lab/tree/main/Database%20Project): Used MySQL
 
 ---
 
