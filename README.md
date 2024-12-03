@@ -2,7 +2,7 @@
 <h3 align="center">A passionate programmer and tech enthusiast</h3>
 
 <p align="center">
-  <img src="https://tenor.com/view/pc-typing-coding-masterlooser15-masterlooser-gif-22231144"  />
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/pc-typing.gif" width="400" />
 </p>
 
 ---
