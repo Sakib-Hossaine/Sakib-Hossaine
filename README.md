@@ -1,28 +1,33 @@
 <h1 align="center">Hi 👋, I'm Md. Sakib Hossaine</h1>
 <h3 align="center">A passionate programmer and tech enthusiast</h3>
 
-<p align="center">
-  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/pc-typing.gif" width="400" />
-</p>
+---
+
+### 👨‍💻 About Me
+<div align="center">
+  <p align="left">
+    - 🌱 I specialize in **C, C++, Java, MySQL, and Python**.<br>
+    - 🎥 I share programming knowledge on my YouTube channel: [@ProgrammingWithSakib](https://www.youtube.com/@programmingwithsakib).<br>
+    - 🌐 Stay connected through my [Facebook profile](https://www.facebook.com/Sakib.za.shetatu/).
+  </p>
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/pc-typing.gif" width="200" align="right" />
+</div>
 
 ---
 
-### 👨‍💻 **About Me**
-- 🌱 I specialize in **C, C++, Java, MySQL, and Python**.
-- 🎥 I share programming knowledge on my YouTube channel: [@ProgrammingWithSakib](https://www.youtube.com/@programmingwithsakib).
-- 🌐 Stay connected through my [Facebook profile](https://www.facebook.com/Sakib.za.shetatu/).
-
----
-
-### 🌍 **Connect With Me**
+### 🌍 Connect With Me
 <p align="left">
-  <a href="https://www.youtube.com/@programmingwithsakib" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="YouTube" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/Sakib.za.shetatu/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@programmingwithsakib" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" height="40" width="40" />
+  </a>
+  <a href="https://www.facebook.com/Sakib.za.shetatu/" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" height="40" width="40" />
+  </a>
 </p>
 
 ---
 
-### ⚙️ **Languages and Tools**
+### ⚙️ Languages and Tools
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" height="40"/>
@@ -33,7 +38,7 @@
 
 ---
 
-### 📊 **GitHub Stats**
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
@@ -44,14 +49,14 @@
 
 ---
 
-### ✨ **Projects**
+### ✨ Projects
 Some of my featured projects:
 - 🌟 [**Project Name 1**](#): A brief description of the project.
 - 🌟 [**Project Name 2**](#): An overview of another great project.
 
 ---
 
-### 🤝 **Support**
+### 🤝 Support
 If you'd like to support my work:
 - 🎥 Subscribe to my [YouTube Channel](https://www.youtube.com/@programmingwithsakib).
 - ⭐ Star my repositories on GitHub!
