@@ -1,6 +1,9 @@
-
 <h1 align="center">Hi 👋, I'm Md. Sakib Hossaine</h1>
 <h3 align="center">A passionate programmer and tech enthusiast</h3>
+
+<p align="center">
+  <img src="https://tenor.com/view/pc-typing-coding-masterlooser15-masterlooser-gif-22231144" alt="Programmer Animation" width="400" />
+</p>
 
 ---
 
@@ -14,7 +17,7 @@
 ### 🌍 **Connect With Me**
 <p align="left">
   <a href="https://www.youtube.com/@programmingwithsakib" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="YouTube" height="30" width="40" /></a>
-  <a href="https://facebook.com/your-facebook-link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/Sakib.za.shetatu/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Facebook" height="30" width="40" /></a>
 </p>
 
 ---
