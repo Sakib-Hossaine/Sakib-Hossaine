@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md. Sakib Hossaine</h1>
 <h3 align="center">A passionate programmer and tech enthusiast</h3>
-
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/pc-typing.gif" width="500" align="right" />
 ---
 
 ### 👨‍💻 About Me
@@ -10,7 +10,7 @@
     - 🎥 I share programming knowledge on my YouTube channel: [@ProgrammingWithSakib](https://www.youtube.com/@programmingwithsakib).<br>
     - 🌐 Stay connected through my [Facebook profile](https://www.facebook.com/Sakib.za.shetatu/).
   </p>
-  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/pc-typing.gif" width="200" align="right" />
+ 
 </div>
 
 ---
