@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me
 <div align="center">
   <p align="left">
-    - 🌱 I specialize in **C, C++, Java, MySQL, and Python**.<br>
+    - 🌱 I specialize in C, C++, Java, MySQL, and Python .<br>
     - 🎥 I share programming knowledge on my YouTube channel: [@ProgrammingWithSakib](https://www.youtube.com/@programmingwithsakib).<br>
     - 🌐 Stay connected through my [Facebook profile](https://www.facebook.com/Sakib.za.shetatu/).
   </p>
