@@ -31,8 +31,10 @@
 
 
 
+
+
 ### ⚙️ Languages and Tools
-<p align="left">
+<p align="center">
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" height="60"/>
