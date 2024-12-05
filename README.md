@@ -7,8 +7,8 @@
 <div align="center">
   <p align="left">
     🌱 I specialize in C, C++, Java, MySQL, and Python .<br>
-     🎥 I share programming knowledge on my YouTube channel: [@ProgrammingWithSakib](https://www.youtube.com/@programmingwithsakib).<br>
-     🌐 Stay connected through my [Facebook profile](https://www.facebook.com/Sakib.za.shetatu/).
+     🎥 I share programming knowledge on my YouTube channel: [ ProgrammingWithSakib ](https://www.youtube.com/@programmingwithsakib).<br>
+     🌐 Stay connected through my [Sakib Hossaine](https://www.facebook.com/Sakib.za.shetatu/)
   </p>
  
 </div>
@@ -16,12 +16,15 @@
 
 
 ### 🌍 Connect With Me
-<p align="left">
+<p align="center">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sakib-Hossaine&style=flat-square&color=blue" alt="Profile Views" />
+</p>
   <a href="https://www.youtube.com/@programmingwithsakib" target="_blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" height="40" width="40" />
+    <img align="center" src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" height="50" width="50" />
   </a>
   <a href="https://www.facebook.com/Sakib.za.shetatu/" target="_blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" height="40" width="40" />
+    <img align="center" src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" height="50" width="50" />
   </a>
 </p>
 
@@ -64,6 +67,5 @@ If you'd like to support my work:
 
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="Profile Views" />
-</p>
+
+
