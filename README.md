@@ -38,7 +38,7 @@
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" height="60"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="MySQL" height="60"/>
-</p>
+</p><br>
 
 
 
