@@ -18,9 +18,14 @@
 
 ### 🌍 **Connect With Me**
 <p align="left">
-  <a href="https://www.youtube.com/@programmingwithsakib" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="YouTube" height="30" width="50" /></a>
-  <a href="https://www.facebook.com/Sakib.za.shetatu/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Facebook" height="30" width="50" /></a>
+  <a href="https://www.youtube.com/@programmingwithsakib" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/Sakib.za.shetatu/" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" alt="Facebook" height="30" width="40" />
+  </a>
 </p>
+
 
 
 
