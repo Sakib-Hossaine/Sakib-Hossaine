@@ -56,8 +56,8 @@
 
 
 ### ✨ Projects
-Some of my featured projects:
- 🌟 [**Project 1 - property management system**](https://github.com/Sakib-Hossaine/CSE-202-JAVA-LAB/tree/main/PropertyJavaFX/src): This project is on property, used Java for language, and used Scene Builder app for outlook
+
+ 🌟 [**Project 1 - property management system**](https://github.com/Sakib-Hossaine/CSE-202-JAVA-LAB/tree/main/PropertyJavaFX/src): This project is on property, used Java for language, and used Scene Builder app for outlook<br>
  🌟 [**Project 2 - Bank management system**](https://github.com/Sakib-Hossaine/CSE-212--Database-management-Lab/tree/main/Database%20Project): Used MySQL
 
 
