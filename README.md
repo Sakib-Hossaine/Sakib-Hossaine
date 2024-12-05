@@ -17,15 +17,15 @@
 
 
 ### 🌍 Connect With Me
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Sakib-Hossaine&style=flat-square&color=blue" alt="Profile Views" />
 </p>
-<p align="center">
+<p align="left">
   <a href="https://www.youtube.com/@programmingwithsakib" target="_blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" height="40" width="40" />
+    <img align="left" src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" height="40" width="40" />
   </a>
   <a href="https://www.facebook.com/Sakib.za.shetatu/" target="_blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" height="40" width="40" />
+    <img align="left" src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" height="40" width="40" />
   </a>
 </p>
 
