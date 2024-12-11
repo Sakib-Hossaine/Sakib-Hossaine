@@ -54,8 +54,8 @@
  🌟 [**Project 2 - Bank Management System**](https://github.com/Sakib-Hossaine/CSE-212--Database-management-Lab/tree/main/Database%20Project): Used MySQL<br>
  🌟 [**Project 3 - Simple Game Development**](https://github.com/Sakib-Hossaine/InProgress): Created a basic game using Unity and C#.
 
-### 🌍 Connect With Me
-<p align="left">
+### 🌍 Connect With Me & 🤝 Support
+<p align="center">
   <a href="https://www.youtube.com/@programmingwithsakib" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" height="40" width="50" />
   </a>
@@ -63,8 +63,6 @@
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" alt="Facebook" height="40" width="50" />
   </a>
 </p>
-
-### 🤝 Support
 If you'd like to support my work:<br>
  🎥 Subscribe to my [YouTube Channel](https://www.youtube.com/@programmingwithsakib).<br>
  ⭐ Star my repositories on GitHub!
