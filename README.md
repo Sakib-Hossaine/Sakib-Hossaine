@@ -52,7 +52,7 @@
 
  🌟 [**Project 1 - Property Management System**](https://github.com/Sakib-Hossaine/CSE-202-JAVA-LAB/tree/main/PropertyJavaFX/src): This project is on property, used Java for language, and used Scene Builder app for outlook<br>
  🌟 [**Project 2 - Bank Management System**](https://github.com/Sakib-Hossaine/CSE-212--Database-management-Lab/tree/main/Database%20Project): Used MySQL<br>
- 🌟 [**Project 3 - Simple Game Development**](https://github.com/Sakib-Hossaine/InProgress): Created a basic game using Unity and C#.
+ 🌟 [**Project 3 - Simple Game Development**](https://github.com/Sakib-Hossaine/InProgress): Creating a game using Unity and C#.
 
 ### 🌍 Connect With Me & 🤝 Support
 <p align="center">
@@ -63,6 +63,4 @@
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" alt="Facebook" height="40" width="50" />
   </a>
 </p>
-If you'd like to support my work:<br>
- 🎥 Subscribe to my [YouTube Channel](https://www.youtube.com/@programmingwithsakib).<br>
- ⭐ Star my repositories on GitHub!
+
