@@ -42,7 +42,7 @@
 </p>
 
 ### 🕹️ Game Developer
-<img src="https://tenor.com/view/breakpoint-pcmr-battlestation-rgb-gif-20396575" width="450" align="right" />
+<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="450" align="right" />
 <div align="center">
   <p align="left">
     🎮 I enjoy creating games using Unity with C# and C++.<br>
