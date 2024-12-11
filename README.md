@@ -30,7 +30,7 @@
 </p>
 
 ### 🕹️ Game Developer
-<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="400" align="right" />
+<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="380" align="right" />
 <div align="center">
   <p align="left">
     🎮 I enjoy creating games using Unity with C# and C++.<br>
