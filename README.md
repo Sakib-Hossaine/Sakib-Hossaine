@@ -10,6 +10,7 @@
 <div align="center">
   <p align="left">
     🌱 I specialize in C, C++, Java, MySQL, Python, and game development using C# and C++ with Unity.<br>
+    🎨 I also have expertise in UI/UX design, utilizing tools like Figma to create user-friendly and visually appealing interfaces.<br>
     🎥 I share programming knowledge on my YouTube channel:<br>
     [ ProgrammingWithSakib ](https://www.youtube.com/@programmingwithsakib).<br>
     🌐 Facebook [ Sakib Hossaine ](https://www.facebook.com/Sakib.za.shetatu/).
@@ -27,6 +28,7 @@
   <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="MySQL" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/unity.png" alt="Unity" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" height="60"/>
+  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" height="60"/>
 </p>
 
 ### 🕹️ Game Developer
