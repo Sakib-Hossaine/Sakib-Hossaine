@@ -54,9 +54,8 @@
 
  🌟 [**Project 1 - Property Management System**](https://github.com/Sakib-Hossaine/CSE-202-JAVA-LAB/tree/main/PropertyJavaFX/src): This project is on property, used Java for language, and used Scene Builder app for outlook<br>
  🌟 [**Project 2 - Bank Management System**](https://github.com/Sakib-Hossaine/CSE-212--Database-management-Lab/tree/main/Database%20Project): Used MySQL<br>
- 🌟 [**Project 3 - Online Educational System**]([https://github.com/Sakib-Hossaine/InProgress](https://github.com/Sakib-Hossaine/DJANGO-Project)): "Learn Anytime, Anywhere – Your Ultimate Online Education Platform!"
-
-A flexible, interactive e-learning system offering courses, live classes, quizzes, and certifications across various subjects. Accessible on all devices, with personalized learning paths and expert instructors to help you achieve your goals. Perfect for students, professionals, and lifelong learners! 🚀📚
+ 🌟 [**Project 3 - Online Educational System**]([https://github.com/Sakib-Hossaine/InProgress](https://github.com/Sakib-Hossaine/DJANGO-Project)): "Learn Anytime, Anywhere – Your Ultimate Online Education Platform!"<br>
+A flexible, interactive e-learning system offering courses, live classes, quizzes, and certifications across various subjects. Accessible on all devices, with personalized learning paths and expert instructors to help you achieve your goals. Perfect for students, professionals, and lifelong learners! 🚀📚<br>
  🌟 [**Project 3 - Simple Game Development**](https://github.com/Sakib-Hossaine/InProgress): Creating a game using Unity and C#.
 
 ### 🌍 Connect With Me & 🤝 Support
