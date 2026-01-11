@@ -65,11 +65,28 @@ A flexible, interactive e-learning system offering courses, live classes, quizze
 - **BUBT Collaborative Contest 2025** - Participated in BUBT National Collegiate Programming Contest
 - **CUET IUPC 2025** - Participated in CUET Inter University Programming Contest
 
+
 #### Codeforces Performance
-<p align="center">
-  <a href="https://codeforces.com/profile/Knight_Fury">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Knight_Fury&theme=github" alt="Codeforces Stats" width="400" />
-  </a>
+<!-- Codeforces Stats Card -->
+<p align="left">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Knight_Fury_&theme=dark" alt="Codeforces Stats" />
+</p>
+
+<!-- Codeforces Rating Graph -->
+<p align="left">
+  <img src="https://codeforces-readme-stats.vercel.app/api?username=Knight_Fury_&theme=dark&show_rating=true" alt="Codeforces Rating Graph" />
+</p>
+
+#### Solved Problems Count
+<!-- Codeforces Solved Problems -->
+<p align="left">
+  <img src="https://codeforces-readme-stats.vercel.app/api/solved?username=Knight_Fury_&theme=dark" alt="Solved Problems" />
+</p>
+
+#### Solved Problems Count
+<!-- Codeforces Solved Problems -->
+<p align="left">
+  <img src="https://codeforces-readme-stats.vercel.app/api/solved?username=Knight_Fury_&theme=dark" alt="Solved Problems" />
 </p>
 
 #### Solved Problems Count
