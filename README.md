@@ -31,6 +31,23 @@
   <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" height="60"/>
 </p>
 
+ ### 🏆 Contest Participation & Achievements
+
+#### ICPC & Programming Contest History
+- **ICPC Dhaka Regionalist 2025** - Participated in the prestigious ICPC Asia Dhaka Regional Contest
+- **AUST IUPC 2025** - Participated in AUST Inter University Programming Contest
+- **MU IUPC 2025** - Participated in MIST Inter University Programming Contest
+- **BUBT Collaborative Contest 2025** - Participated in BUBT National Collegiate Programming Contest
+- **CUET IUPC 2025** - Participated in CUET Inter University Programming Contest
+
+
+#### Codeforces Performance
+<!-- Codeforces Stats Card -->
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Knight_Fury_&theme=dark" alt="Codeforces Stats" />
+</p>
+
+
 ### 🕹️ Game Developer
 <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="380" align="right" />
 <div align="center">
@@ -56,44 +73,7 @@
  🌟 [**Project 3 - Online Educational System**]([https://github.com/Sakib-Hossaine/InProgress](https://github.com/Sakib-Hossaine/DJANGO-Project)): "Learn Anytime, Anywhere – Your Ultimate Online Education Platform!"<br>
 A flexible, interactive e-learning system offering courses, live classes, quizzes, and certifications across various subjects. Accessible on all devices, with personalized learning paths and expert instructors to help you achieve your goals. Perfect for students, professionals, and lifelong learners! 🚀📚<br>
  🌟 [**Project 3 - Simple Game Development**](https://github.com/Sakib-Hossaine/InProgress): Creating a game using Unity and C#.
- ### 🏆 Contest Participation & Achievements
 
-#### ICPC & Programming Contest History
-- **ICPC Dhaka Regionalist 2025** - Participated in the prestigious ICPC Asia Dhaka Regional Contest
-- **AUST IUPC 2025** - Participated in AUST Inter University Programming Contest
-- **MU IUPC 2025** - Participated in MIST Inter University Programming Contest
-- **BUBT Collaborative Contest 2025** - Participated in BUBT National Collegiate Programming Contest
-- **CUET IUPC 2025** - Participated in CUET Inter University Programming Contest
-
-
-#### Codeforces Performance
-<!-- Codeforces Stats Card -->
-<p align="left">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Knight_Fury_&theme=dark" alt="Codeforces Stats" />
-</p>
-
-<!-- Codeforces Rating Graph -->
-<p align="left">
-  <img src="https://codeforces-readme-stats.vercel.app/api?username=Knight_Fury_&theme=dark&show_rating=true" alt="Codeforces Rating Graph" />
-</p>
-
-#### Solved Problems Count
-<!-- Codeforces Solved Problems -->
-<p align="left">
-  <img src="https://codeforces-readme-stats.vercel.app/api/solved?username=Knight_Fury_&theme=dark" alt="Solved Problems" />
-</p>
-
-#### Solved Problems Count
-<!-- Codeforces Solved Problems -->
-<p align="left">
-  <img src="https://codeforces-readme-stats.vercel.app/api/solved?username=Knight_Fury_&theme=dark" alt="Solved Problems" />
-</p>
-
-#### Solved Problems Count
-<!-- Codeforces Solved Problems -->
-<p align="left">
-  <img src="https://codeforces-readme-stats.vercel.app/api/solved?username=Knight_Fury&theme=dark" alt="Solved Problems" />
-</p>
 
 ### 🌍 Connect With Me & 🤝 Support
 <p align="center">
