@@ -36,7 +36,7 @@
 #### ICPC & Programming Contest History
 - **ICPC Dhaka Regionalist 2025** - Participated in the prestigious ICPC Asia Dhaka Regional Contest
 - **AUST IUPC 2025** - Participated in AUST Inter University Programming Contest
-- **MU IUPC 2025** - Participated in MIST Inter University Programming Contest
+- **MU IUPC 2025** - Participated in Metropiliton University Inter University Programming Contest
 - **BUBT Collaborative Contest 2025** - Participated in BUBT National Collegiate Programming Contest
 - **CUET IUPC 2025** - Participated in CUET Inter University Programming Contest
 
