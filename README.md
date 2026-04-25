@@ -39,6 +39,7 @@
 - **MU IUPC 2025** - Participated in Metropiliton University Inter University Programming Contest
 - **BUBT Collaborative Contest 2025** - Participated in BUBT National Collegiate Programming Contest
 - **CUET IUPC 2025** - Participated in CUET Inter University Programming Contest
+- **Impact Dhaka 2026** · AI for Urban Transformation hackathon at BUET
 
 
 #### Codeforces Performance
