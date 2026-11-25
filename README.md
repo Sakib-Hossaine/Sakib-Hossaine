@@ -35,6 +35,7 @@
 
 #### ICPC & Programming Contest History
 - **ICPC Dhaka Regionalist 2025** - Participated in the prestigious ICPC Asia Dhaka Regional Contest
+- **ICPC-JRC Inter College & Intra-UAP Programming Contest 2026** - 1st Runner Up
 - **Inter University Robo Expo 3.0** - 1st Runner Up 
 - **AUST IUPC 2025** - Participated in AUST Inter University Programming Contest
 - **MU IUPC 2025** - Participated in Metropiliton University Inter University Programming Contest
